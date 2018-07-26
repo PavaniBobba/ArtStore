@@ -1,0 +1,55 @@
+
+
+.title{
+
+	font-size: 12px;
+	text-align: center;
+}
+.thumb-button{
+	text-align: center;
+
+}
+#cost{
+	color: red;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+#saves td{
+		border: none;
+}
+
+
+
+#product
+{
+	margin-top: 20px;
+}
+
+
+#filter-box{
+	padding: 0px;
+
+}
+
+#search-results{
+	padding: 10px;
+}
+
+#artist-details-div
+{
+padding-top: 20px;
+}
+
+#image-popup{
+	height: 600px;
+	width:  500px;
+}
+
+#table-header{
+	padding: 15px;
+}
+
+
+
